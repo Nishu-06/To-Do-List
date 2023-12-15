@@ -1,0 +1,31 @@
+body{
+    background-color: lightpink;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+}
+
+h1{
+    color:black;
+
+}
+
+button{
+
+}
+input{
+    border:2px solid black;
+    height: 30px;
+    width:300px;
+    text-align: center;
+}
+
+.logo{
+    height: 150px;
+    width:150px;
+    top:10px;
+    left:10px;
+}
+
